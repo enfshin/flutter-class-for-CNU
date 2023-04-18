@@ -15,6 +15,6 @@ void main() {
   var player1 = Player(name: "신의철", hp: 50, mp: 50);
   player1.sayHello();
 
-  var player2 = Player(name: "장영근", hp: 150, mp: 150);
+  var player2 = Player();
   player2.sayHello();
 }

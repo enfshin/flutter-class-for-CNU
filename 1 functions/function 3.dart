@@ -1,4 +1,6 @@
-String say_Hello({String? name, int? age}) {
+//TODO: named parameters function
+
+String say_Hello({String name, int age}) {
   return "Hi I am $name, and I am $age years old.";
 }
 

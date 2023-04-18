@@ -14,9 +14,6 @@ class Player {
 }
 
 void main() {
-  // call player class
   var player1 = Player();
-
-  // call sayHello functions from Player class
   player1.sayHello();
 }
