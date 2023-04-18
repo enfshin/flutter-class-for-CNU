@@ -1,4 +1,4 @@
-//TODO: make player named constructor
+//TODO: make named constructor
 
 class Player {
   String name;
