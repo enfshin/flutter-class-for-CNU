@@ -1,9 +1,6 @@
 source code : https://github.com/enfshin/flutter-class-for-CNU.git
 
-github 회원가입,
-github repository 생성
-vs code의 폴더와 github repository 연동
-본인 vscode의 코드 commit, push 해보기
+
 
 
 

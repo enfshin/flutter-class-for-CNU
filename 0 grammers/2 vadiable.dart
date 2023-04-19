@@ -1,6 +1,8 @@
 //TODO: variables
 
 void main() {
+  // 가장 기본적인 variable인 var
+  // 모든 종류의 데이터 타입이 가능합니다.
   var variable1 = "텍스트";
   variable1 = "새로운 텍스트"; //give new valie to varialbe1
   variable1 = 2; //var can't change data type if once given
