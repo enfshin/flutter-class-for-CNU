@@ -1,6 +1,8 @@
 source code : https://github.com/enfshin/flutter-class-for-CNU.git
 
-
+study about 
+- class constructor
+- class inherit
 
 
 
