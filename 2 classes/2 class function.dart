@@ -15,5 +15,6 @@ class Player {
 
 void main() {
   var player1 = Player();
+  print(player1.name);
   player1.sayHello();
 }
