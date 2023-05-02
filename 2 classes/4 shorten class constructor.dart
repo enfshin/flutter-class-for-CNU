@@ -14,5 +14,6 @@ class Player {
 
 void main() {
   var player1 = Player();
+  // var player1 = Player("신의철", 50, 50);
   player1.sayHello();
 }

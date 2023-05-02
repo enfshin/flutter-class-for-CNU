@@ -16,8 +16,6 @@ class Player extends Human {
   }
 }
 
-class Player2 extends Human {}
-
 void main() {
   var player2 = Player(name: "장영근", job: "학생");
   player2.sayHello();

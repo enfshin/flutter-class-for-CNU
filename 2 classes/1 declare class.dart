@@ -1,7 +1,13 @@
 //TODO : delcare class and print class variables
 
+// function
+void say_HelloWorld1() {
+  print("Hello World!");
+}
+
 // class
 class Player {
+  // class variables
   String name = "신의철";
   int hp = 100;
   int mp = 100;
