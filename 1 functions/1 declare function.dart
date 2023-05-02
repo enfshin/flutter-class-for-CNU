@@ -12,7 +12,7 @@ void say_HelloWorld1() {
 }
 
 // 위 펑션 과는 다르게 return "Hello Wolrd 1"; 처럼 return이 있습니다.
-// return_HelloWorld_1이 실행되면 Hello Wolrd 1를 그 결과 값으로 return 하는 겁니다.
+// return_HelloWorld_1이 실행되면 "Hello Wolrd 1"를 그 결과 값으로 return 하는 겁니다.
 String return_HelloWorld_1() {
   return "Hello Wolrd 1";
 }
